@@ -1,3 +1,5 @@
 body {
+  background-color: rgb(35, 35,45 );
   font-family: monospace;
+  color: rgba(240, 240, 240, 0.8);
 }
